@@ -140,10 +140,4 @@ Implement drill-through pages for detailed analysis
 Add geographical analysis if location data is available
 Create mobile-optimized views
 
-Additional Features to Consider:
-
-Performance rating correlations
-Compensation analysis by role/department
-Hiring funnel analytics
-Employee lifecycle tracking
 
