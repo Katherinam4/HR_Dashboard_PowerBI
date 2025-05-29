@@ -349,7 +349,7 @@ This Power BI dashboard delivers comprehensive insights into key Human Resources
 
  
 
-### Contact
+### 💼  Contact
 
 - **Email**: ekaterine.mashchenko.1@btu.edu.ge
 - **GitHub**: [Katherinam4](https://github.com/Katherinam4)
