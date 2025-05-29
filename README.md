@@ -286,15 +286,15 @@ This Power BI dashboard delivers comprehensive insights into key Human Resources
 
 ##### ├── README.md # Project documentation
 
-##### ├── data/ # Data sources folder
+##### ├── Data/ # Data sources folder
 
-##### │ ├── employee_data.xlsx # HR data source
+##### │ ├── people_data.csv # HR data source
 
-##### │ └── department_lookup.csv # Reference data
+##### │ └── people_employment_history # Reference data
 
-##### └── screenshots/ # Dashboard visuals
+##### └── Screenshot/ # Dashboard visuals
 
-##### └── dashboard_overview.png # Dashboard preview image
+##### └── hr dashboard project.png # Dashboard preview image
 
 
 
@@ -346,3 +346,10 @@ This Power BI dashboard delivers comprehensive insights into key Human Resources
 - Visualize **recruitment funnel & conversion rates**  
 
 - **Track employee lifecycle** from onboarding to exit
+
+ 
+
+### Contact
+
+- **Email**: ekaterine.mashchenko.1@btu.edu.ge
+- **GitHub**: [Katherinam4](https://github.com/Katherinam4)
