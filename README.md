@@ -34,7 +34,9 @@
 
 - [🚀 Project Development](#-project-development)  
 
-- [🌟 Future Enhancements](#-future-enhancements)  
+- [🌟 Future Enhancements](#-future-enhancements)
+  
+- [💼  Contact](#-contact)
 
  
 
