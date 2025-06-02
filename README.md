@@ -36,7 +36,7 @@
 
 - [🌟 Future Enhancements](#-future-enhancements)
   
-- [💼  Contact](#-contact)
+- [💼  Contact](#--contact)
 
  
 
